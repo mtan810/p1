@@ -11,17 +11,17 @@
 <body>
     <img src='images/pic.jpg' alt='Mason Tan'>
 
-    <h1>Mason Tan</h1>
+    <h1>Mason Tan's DWA16 Portfolio</h1>
     
-    <h2>Project 2 Title</h2>
+    <h3>Project 2 Title</h3>
     <p>View: [link]</p>
     <p>Github: [link]</p>
     
-    <h2>Project 3 Title</h2>
+    <h3>Project 3 Title</h3>
     <p>View: [link]</p>
     <p>Github: [link]</p>
     
-    <h2>Project 4 Title</h2>
+    <h3>Project 4 Title</h3>
     <p>View: [link]</p>
     <p>Github: [link]</p>
     
