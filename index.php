@@ -4,6 +4,8 @@
     <title>Mason Tan P1 - DWA16 Portfolio</title>
 </head>
 <body>
+    <img src='images/pic.jpg' alt='Mason Tan'>
+
     <h1>Mason Tan</h1>
     
     <h2>Project 2 Title</h2>
