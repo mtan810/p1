@@ -9,7 +9,7 @@
     <link href="css/main.css" rel="stylesheet">
 </head>
 <body>
-    <img src='images/pic.jpg' alt='Mason Tan'>
+    <img src='images/pic.JPG' alt='Mason Tan'>
 
     <h1>Mason Tan's DWA16 Portfolio</h1>
     
